@@ -23,8 +23,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  logo: https://github.com/HELLOMEDHIRA/medhira/blob/main/assets/medhira-logo.png
-  favicon: https://github.com/HELLOMEDHIRA/medhira/blob/main/assets/medhira-logo.png
+  logo: https://raw.githubusercontent.com/HELLOMEDHIRA/medhira/main/assets/medhira-logo.png
+  favicon: https://raw.githubusercontent.com/HELLOMEDHIRA/medhira/main/assets/medhira-logo.png
   features:
     - navigation.top
     - navigation.tracking
@@ -43,6 +43,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.icons
 
 nav:
   - Home: index.md
