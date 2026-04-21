@@ -28,11 +28,11 @@ In mobile applications, sensitive data like authentication tokens, user credenti
 
 ## Key Features
 
-- :material-shield-lock: **Encrypted Storage** - Device-level encryption
-- :material-database: **Redux Persist Compatible** - Drop-in replacement
-- :material-cellphone: **Cross-Platform** - iOS Keychain & Android EncryptedSharedPreferences
-- :material-tune: **Customizable** - Configurable key transformation
-- :material-language-typescript: **Full TypeScript Support**
+- :shield: **Encrypted Storage** - Device-level encryption
+- :floppy_disk: **Redux Persist Compatible** - Drop-in replacement
+- :mobile_phone: **Cross-Platform** - iOS Keychain & Android EncryptedSharedPreferences
+- :gear: **Customizable** - Configurable key transformation
+- :blue_book: **Full TypeScript Support**
 
 ## Quick Example
 
