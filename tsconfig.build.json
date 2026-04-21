@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "./src",
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declaration": true,
+    "declarationMap": true,
+    "outDir": "./lib/typescript",
+    "moduleResolution": "bundler",
+    "ignoreDeprecations": "6.0"
+  },
+  "include": ["src"],
+  "exclude": ["**/__tests__/**", "**/*.test.ts", "**/*.test.tsx"]
+}

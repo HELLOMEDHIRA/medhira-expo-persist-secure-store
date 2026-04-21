@@ -1,0 +1,72 @@
+site_name: MEDHIRA Expo Persist Secure Store
+site_url: https://medhira-expo-persist-secure-store.readthedocs.io
+site_description: A secure storage integration for redux-persist using Expo SecureStore - Engineering Intelligence Across Everything
+site_author: MEDHIRA Team
+
+repo_url: https://github.com/HELLOMEDHIRA/medhira-expo-persist-secure-store
+repo_name: HELLOMEDHIRA/medhira-expo-persist-secure-store
+
+copyright: "Copyright &copy; 2024 MEDHIRA - Engineering Intelligence Across Everything"
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  logo: https://github.com/HELLOMEDHIRA/medhira/blob/main/assets/medhira-logo.png
+  favicon: https://github.com/HELLOMEDHIRA/medhira/blob/main/assets/medhira-logo.png
+  features:
+    - navigation.top
+    - navigation.tracking
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: en
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Installation: getting-started/installation.md
+      - Quick Start: getting-started/quick-start.md
+  - API Reference:
+      - createSecureStore: api/createsecurestore.md
+  - Usage:
+      - Global Storage: usage/global-storage.md
+      - Per-Reducer Storage: usage/per-reducer-storage.md
+  - About:
+      - License: about/license.md
+      - Contributing: about/contributing.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/HELLOMEDHIRA
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/medhira
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/medhira
+    - icon: fontawesome/brands/npm
+      link: https://www.npmjs.com/package/medhira-expo-persist-secure-store
+  version: 0.0.1
+  release: 0.0.1
