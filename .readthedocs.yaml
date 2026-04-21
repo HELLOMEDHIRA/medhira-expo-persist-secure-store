@@ -8,7 +8,7 @@ build:
     python: "3.12"
   commands:
     - pip install -r requirements.txt
-    - mkdocs build --strict
+    - mkdocs build --strict -d $READTHEDOCS_OUTPUT/html
 
 mkdocs:
   configuration: mkdocs.yml
