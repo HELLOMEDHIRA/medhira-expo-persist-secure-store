@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HELLOMEDHIRA/medhira/blob/main/assets/medhira-logo.png" alt="MEDHIRA Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/HELLOMEDHIRA/medhira/main/assets/medhira-logo.png" alt="MEDHIRA Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -175,7 +175,7 @@ Or, if you're looking for private support or help in customizing the experience,
 
 **MEDHIRA** - Engineering Intelligence Across Everything
 
-- Website: [https://medhira.io](https://medhira.io)
+- Website: [https://medhira.readthedocs.io/en/latest/](https://medhira.readthedocs.io/en/latest/)
 - GitHub: [https://github.com/HELLOMEDHIRA](https://github.com/HELLOMEDHIRA)
 - Email: hello.medhira@gmail.com
 

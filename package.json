@@ -51,7 +51,7 @@
   "contributors": [
     "MEDHIRA Team"
   ],
-  "author": "MEDHIRA <hello.medhira@gmail.com> (https://medhira.io)",
+  "author": "MEDHIRA <hello.medhira@gmail.com> (https://medhira.readthedocs.io/en/latest/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/HELLOMEDHIRA/medhira-expo-persist-secure-store/issues"

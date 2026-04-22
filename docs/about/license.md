@@ -35,6 +35,6 @@ This package includes dependencies licensed under their own terms:
 
 **MEDHIRA** - Engineering Intelligence Across Everything
 
-- Website: [https://medhira.io](https://medhira.io)
+- Website: [https://medhira.readthedocs.io/en/latest/](https://medhira.readthedocs.io/en/latest/)
 - GitHub: [https://github.com/HELLOMEDHIRA](https://github.com/HELLOMEDHIRA)
-- Email: hello@medhira.io
+- Email: hello.medhira@gmail.com
